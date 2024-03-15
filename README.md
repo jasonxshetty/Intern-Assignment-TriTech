@@ -1,2 +1,6 @@
 Currently working on this program (Java) which models a registration system for students.
-So far, I have created the respective classes (Course, Professor, Student), created the attribute variables, and created the parameterized constructors.
+Start (3/11)
+Created file and StudentRegistration (main) class, and main method.
+(3/14)
+Created the respective classes (Course, Professor, Student), created the attribute variables, and created the parameterized constructors.
+(3/15)

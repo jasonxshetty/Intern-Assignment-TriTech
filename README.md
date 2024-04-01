@@ -9,3 +9,5 @@ Created a method to print in alphabetical order in respect to Course, Student, a
 Implemented an interface for Course Assignment and Course Enrollment for Professor and Student, respectfully.
 Created toString methods for each class.
 Implemented scanner to recieve inputs from user.
+(4/1)
+Created seperate files for each class.
